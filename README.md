@@ -1,0 +1,4 @@
+# Balloon-Takeoff
+The purpose of this project is to provide a sensorial experience that guides a person across breathing techniques to reduce anxiety. The project combines internet art and electronic music to produce visual and auditory aids to immerse the person in the activities. Balloon Takeoff has three activities: adding thoughts to the balloon, deep breathing exercise, and watching the release of the balloon.
+
+This project was inspired by a moment in middle school when I was anxious and my English teacher, Mr. Jester told me to imagine writing all my thoughts inside the balloon. He then told me to take deep breaths to inflate the imaginary balloon and release it towards the end. By providing a sensorial experience to this balloon activity, I aim to be able to ‘virtually’ bring this technique to life and share this experience with others netizens.
